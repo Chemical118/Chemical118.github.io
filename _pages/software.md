@@ -52,12 +52,12 @@ We also used appropriate multiprocessing to realize high performance.
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
-<h4><b>TRIS</b></h4><i>Telomeric Repeat motif Identification tool with Short-read sequencing</i><br>
-<a href="https://github.com/Chemical118/TRIS" target="_blank"><button class="btn btn-info btn-sm">GITHUB</button></a>
+<h4><b>TREW</b></h4><i>Telomeric Repeat motif Estimation tool with Whole-genome sequencing data</i><br>
+<a href="https://github.com/Chemical118/TREW" target="_blank"><button class="btn btn-info btn-sm">GITHUB</button></a>
 <!-- <a href="{{ site.url }}{{ site.baseurl }}/papers/example_proceeding.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> -->
 </div>
 </div>
-TRIS is a C++ program that can identify Telomeric repeat motif (TRM) with short-read sequencing data.
+TREW is tool that can identify Telomeric repeat motif (TRM) with any whole-genome sequencing data.
 This tool looks for repeated sequences in a single read to find candidates for TRMs, iterating through them to finally find a TRM.
 It also uses oneAPI Threading Building Blocks (oneTBB) for high performance and high-level multithreading, making it 10x faster than traditional tools.
 </div>
