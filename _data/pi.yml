@@ -7,15 +7,15 @@
   # scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
   # cv: cv/cv.pdf
   # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 1
+  number_educ: 2
   education1: "(2022~) B.S. Biotechnology, Korea University"
-  # education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
+  education2: "(2023~) B.S. Computer Science and Engineering, Korea University"
   # education3: 
   # education4: 
   # education5: 
   # education6: 
   education1short: (2022~) B.S. Biotechnology,<br>Korea University
-  # education2short: (1939) B.S. Physics, MIT
+  education2short: (2023~) B.S. Computer Science,<br>Korea University
   # education3short: 
   # education4short: 
   # education5short: 
